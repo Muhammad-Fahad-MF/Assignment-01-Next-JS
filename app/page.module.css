@@ -163,3 +163,12 @@ a.secondary {
     filter: invert();
   }
 }
+
+
+.navDivs {
+  display: inline-block;
+  margin-left: 100px;
+  padding-top:10px;
+  text-decoration: none;
+  font-size: larger;
+}
